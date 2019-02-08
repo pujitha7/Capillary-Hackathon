@@ -1,5 +1,5 @@
 # Capillary-Hackathon
-Capillary machine learning hackathon hosted on Analytics Vidhya
+Capillary machine learning hackathon hosted on Analytics Vidhya.
 
 ## Problem Statement:
 Recommender system for fashion retail. Develop an algorithm which will recommend best suited items from inventory to a user in order to improve his/her shopping experience.
