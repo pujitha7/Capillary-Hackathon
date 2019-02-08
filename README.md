@@ -23,8 +23,6 @@ images - image of apparel
 * Sequence of productIDs purchased by each userID are given as input to Recurrent Neural Network to predict the next probable item to be purchased by the user.
 * Each product is represented by the vector - [ word2vec representation + image feature vector + one hot encoding of product attribute + feature vectors of 5 nearest users]
 
-## Performance
 
-* Hit rate at 10 is calculated.
 
 LEADERBOARD RANK - 40
